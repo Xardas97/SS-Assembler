@@ -1,4 +1,4 @@
-# SS-Assembler
+# Two Pass Assembler
 
-Opis procesora za koji se koristi ovaj asembler:
+Description of the CPU for which this Assembler is used:
 http://ir3sp.etf.rs/DZ/ss_19_jun_proj_prilog.pdf
